@@ -1,0 +1,19 @@
+{
+  "file": "./models/tracks.json",
+  "tracks": [
+    {
+      "title": "Dermie's song",
+      "artist": "Dermie",
+      "duration": 1,
+      "_id": "e353ca37-a594-4bd0-a1bf-366f0186ff31",
+      "playlistid": "37a790ca-42fe-4a09-bb89-e257a0fd7024"
+    },
+    {
+      "title": "Susan's song",
+      "artist": "Susan",
+      "duration": 2,
+      "_id": "659b0ce3-0534-47c4-83be-3fff638b246a",
+      "playlistid": "37a790ca-42fe-4a09-bb89-e257a0fd7024"
+    }
+  ]
+}
