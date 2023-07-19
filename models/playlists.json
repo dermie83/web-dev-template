@@ -2,14 +2,6 @@
   "file": "./models/playlists.json",
   "playlists": [
     {
-      "title": "Test 1",
-      "_id": "37a790ca-42fe-4a09-bb89-e257a0fd7024"
-    },
-    {
-      "title": "Test 2",
-      "_id": "d7dd4257-c168-4ab2-bb11-a99d08fa5646"
-    },
-    {
       "title": "Dermo",
       "_id": "6359b49f-6983-4b0b-9cb5-1b8c021f5c91"
     }
