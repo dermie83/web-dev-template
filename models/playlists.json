@@ -2,8 +2,18 @@
   "file": "./models/playlists.json",
   "playlists": [
     {
-      "title": "Dermo",
-      "_id": "6359b49f-6983-4b0b-9cb5-1b8c021f5c91"
+      "title": "Susan's Playlist",
+      "_id": "28eb6fb0-21a4-4354-b4b4-c8c98e050b56"
+    },
+    {
+      "title": "Shite",
+      "userid": "a805ad64-2c78-44e1-8912-7761e08668c2",
+      "_id": "1e51b711-0f4e-4013-8153-c744aba4d7a6"
+    },
+    {
+      "title": "Susan's Playlist",
+      "userid": "243bf758-8643-4195-8121-3e94c1181a6d",
+      "_id": "3ba2a868-9601-4959-97ae-8d79dc1c0875"
     }
   ]
 }
